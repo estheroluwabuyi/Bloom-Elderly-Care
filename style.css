@@ -716,7 +716,9 @@ font-size: var(--FS-XM);
 }
 
 .credits a{
-  text-decoration: underline black;
+  text-decoration: underline #000000;
+  /* rgb(151, 14, 14) */
+  color: inherit;
 }
 
 .credits{
