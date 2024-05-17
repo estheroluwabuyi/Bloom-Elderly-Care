@@ -715,17 +715,14 @@ font-size: var(--FS-XM);
   color: rgba(255,255,255,0.774);
 }
 
-/* .subscription-form_container--inputs{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-} */
-/*.color{
-  background: var(--BLUECOLOR);
+.credits a{
+  text-decoration: underline black;
 }
-*/
 
-
+.credits{
+  width: 90%;
+  margin: auto;
+}
 
 
 /*KeyFrames*/
